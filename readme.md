@@ -4,3 +4,4 @@ License Fully functional for 30 days then requires serial code to unlock. Trial 
 
 If downloading using Microsoft Edge may generate warning about infrequently downloaded.  The file is safe to install.
 
+If in doubt validate the checksum.
